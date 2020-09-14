@@ -45,7 +45,7 @@ a set with a meta-z-score higher than our actual one.
 I often write a Monte Carlo sim when the math is
 otherwise unintuitive
 
-#Running it
+# Running it
 Running Lang_Prob_Parser at the command either takes 
 a few arguments or asks for your input as it runs. 
 I suggest the latter on first run-through since 
@@ -66,7 +66,7 @@ Five and ten are good places to start. There are only a few families
 with ten or more languages in them in the database, 
 but there are enough.
 
-#Resources
+# Resources
 You can find the current version of the stress correlate database here:
 https://wmpeople.wm.edu/site/page/sllund/stresscorrelatedatabase
 
