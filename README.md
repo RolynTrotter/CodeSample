@@ -1,5 +1,5 @@
-Note: all code not otherwise labeled was written by me. This was in the
-Linguistics department, and the idea for the test was mine so I had
+Note: all code credited to MH was written by me (old name). This was in the
+Linguistics department, and the idea for the test was mine, so I had
 to implement it.
 
 # Intro
